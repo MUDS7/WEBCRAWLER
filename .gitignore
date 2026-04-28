@@ -1,0 +1,5 @@
+/target/
+/target_codex*/
+/output/
+.env
+*.log
